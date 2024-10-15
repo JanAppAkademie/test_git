@@ -6,6 +6,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
+
 //test6
 //test
 //test dev
@@ -15,6 +16,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
+        //Merge Issue
         // This is the theme of your application.
         //
         // TRY THIS: Try running your application with "flutter run". You'll see
